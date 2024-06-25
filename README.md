@@ -28,7 +28,7 @@ The platform is designed to be user-friendly and provides a straightforward inte
 
 1. Clone the Repository :
 ```bash
-https://github.com/ArpanSurin/Blog-Platform.git
+git clone https://github.com/ArpanSurin/Blog-Platform.git
 ```
 
 2. Navigate to project directory :
