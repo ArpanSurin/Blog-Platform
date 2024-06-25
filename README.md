@@ -22,7 +22,7 @@ The platform is designed to be user-friendly and provides a straightforward inte
 
 **Tailwind CSS :** A utility-first CSS framework for styling the application, ensuring a consistent and responsive design.
 
-**Local State Management :** React's useState hook is used to manage the state of blog posts within the application.
+**Local State Management :** React's `useState` hook is used to manage the state of blog posts within the application.
 
 ## Installation and Setup
 
