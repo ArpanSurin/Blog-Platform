@@ -5,7 +5,7 @@ The Simple Blog Platform is a web-based application built with React that allows
 
 The platform is designed to be user-friendly and provides a straightforward interface for managing blog content.
 
-**Note :** This project was developed as a part of my virtual internship at **CodSoft**.
+**Note :** This project was developed as a part of my internship at **CodSoft**.
 
 ## Features
 **Create Posts :** Users can create new blog posts by providing a title, description, and an image URL. 
